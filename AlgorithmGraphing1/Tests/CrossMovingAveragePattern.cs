@@ -16,9 +16,6 @@ namespace AlgorithmGraphing1.Tests
             "AAPL", "MSFT", "NFLX", "TSLA", "AAL", "BAC", "JPM"
         };
 
-        private string API_KEY = "PKKHZOYD801W57NHJ0Q7";
-        private string API_SECRET = "ltj9Q4v/7mOXpAbj6QN8fwJ5Zdf1MooyEmcSmonn";
-
         private AlpacaTradingClient alpacaTradingClient;
         private AlpacaDataClient alpacaDataClient;
 
